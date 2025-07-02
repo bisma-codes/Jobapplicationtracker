@@ -3,65 +3,76 @@
 </h1>
 
 <p align="center">
-  <b>A beautifully crafted, fully responsive React + Tailwind web app to manage your job hunt like a pro!</b><br/>
-  🎯 Track your applications · ✨ Organize by status · 📅 Never miss a deadline
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=500&lines=Organize+your+job+hunt.;Track+applications+visually.;Stay+on+top+of+deadlines+and+interviews." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/bisma-codes/Jobapplicationtracker?color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/bisma-codes/Jobapplicationtracker?style=flat-square" />
-  <img src="https://img.shields.io/github/deployments/bisma-codes/Jobapplicationtracker/github-pages?label=Live%20Status&style=flat-square" />
+  <b>A modern, animated, and fully responsive React + Tailwind CSS app to manage your job search like a pro.</b><br/>
+  <i>Built with design, usability, and clarity in mind.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bisma-codes/Jobapplicationtracker">
+    <img alt="License" src="https://img.shields.io/github/license/bisma-codes/Jobapplicationtracker?style=flat-square&color=blue"/>
+  </a>
+  <a href="https://github.com/bisma-codes/Jobapplicationtracker">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/bisma-codes/Jobapplicationtracker?style=flat-square"/>
+  </a>
+  <a href="https://github.com/bisma-codes/Jobapplicationtracker/deployments/activity_log?environment=github-pages">
+    <img alt="Deployment" src="https://img.shields.io/github/deployments/bisma-codes/Jobapplicationtracker/github-pages?label=Live%20Status&style=flat-square"/>
+  </a>
 </p>
 
 ---
 
-## 📸 Preview
+## 🔥 Preview
 
-<img src="./screenshot.png" alt="App Screenshot" style="border-radius: 12px;" />
+![image](https://github.com/user-attachments/assets/436fd0f7-282b-4be4-9e89-8b27dd50a34f)
+![image](https://github.com/user-attachments/assets/447943e1-f403-4e4e-b43b-caf824c36ef1)
+![image](https://github.com/user-attachments/assets/cc76e5df-06e7-4eaf-9f1c-f673fc542f8f)
 
-> _Replace with your actual screenshot if available_
+
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-> [🌐 Click to View Live](https://bisma-codes.github.io/Jobapplicationtracker/)  
-> _(Make sure to deploy first using GitHub Pages, Netlify, or Vercel)_
+> 🚀 [**Click here to view live**](https://bisma-codes.github.io/Jobapplicationtracker/)  
 
 ---
 
 ## ✨ Features
 
-- 📝 Add/Edit/Delete job cards with details
-- ✅ Application Status: Applied, Interview, Offer, Rejected
-- 🕵️‍♀️ Filter & Search by title, company or status
-- 📅 Deadline Highlights with color coding
-- 🌙 Optional Dark Mode Toggle
-- 🧲 Persistent data via `localStorage`
-- 🧩 Trello-style Drag & Drop Board *(coming soon)*
+- 📝 **Add/Edit/Delete** job applications
+- ✅ Track status (Applied, Interview, Offer, Rejected)
+- 🔍 **Filter/Search** by title, company, or status
+- 🎯 **Deadline Highlighting** with color codes
+- 💾 **Data Persistence** via `localStorage`
+- 🌙 Optional **Dark Mode Toggle**
+- 📦 Trello-style **Drag & Drop Board** (coming soon)
 
 ---
 
 <details>
-  <summary>📦 Tech Stack</summary>
+  <summary><strong>⚙️ Tech Stack Used</strong></summary>
 
-  - ⚛️ React.js (with Vite)
-  - 💨 Tailwind CSS
+  - ⚛️ React.js (Vite)
+  - 🎨 Tailwind CSS
   - 🧠 LocalStorage API
-  - 🌐 GitHub Pages or Netlify for Deployment
+  - 🛠 GitHub Pages for deployment
 </details>
 
 ---
 
-## 🛠️ Getting Started
+## 🛠 Getting Started
 
 ```bash
-# 1. Clone the repo
+# Clone the repository
 git clone https://github.com/bisma-codes/Jobapplicationtracker.git
 cd Jobapplicationtracker
 
-# 2. Install dependencies
+# Install dependencies
 npm install
 
-# 3. Start the development server
+# Start the dev server
 npm run dev
